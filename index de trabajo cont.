@@ -5,11 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ProyectoFinalUnidad1</title>
-<LInk real="stylesheet" href="./ESTILO/stylesheet">
+    <!-- css externo-->
 
+<LInk real="stylesheet" href="./css/styles.css">
+  <link real="stylesheet"href="./css/mq.css">
+  <!--style-->
+  boby{ 
+    background-color:darksalmon,
+  }
+</style>..>
+  
 </head>
 
 <body >
+  <div class="contenedor">
     
     <h1>mi territorio 1</h1>
     <header>
@@ -129,6 +138,7 @@
         </div>
         </footer>
 
+  </div>
 </body>
 </html>
 
